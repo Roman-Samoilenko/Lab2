@@ -53,7 +53,7 @@
 ### 5. Программа
 
 ```java
- import java.io.PrintStream;
+import java.io.PrintStream;
 import java.util.Scanner;
 
 public class Main {
